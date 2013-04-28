@@ -1,0 +1,14 @@
+{
+    "friendlyVersion": "dev_0.1",
+    "versionDefName": "TEST_APP_RESOURCES",
+
+    "media": [
+
+	{
+        "type": "png",
+        "defName": "IMG_DOOM",
+        "file": "images/doom.png"
+	}
+
+    ]
+}
